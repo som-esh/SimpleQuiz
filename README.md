@@ -9,6 +9,4 @@ Basic Quiz app for beginners.
 
 ### Quiz App Final UI
 
-<!-- ![Preview](/gif.gif) -->
 
-![App UI](/ui.png)
